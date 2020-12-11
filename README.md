@@ -1,2 +1,2 @@
 # hello-world
-just practicing - spelling changed
+just practising - spelling changed
