@@ -1,2 +1,2 @@
 # hello-world
-just praticiing
+just praticing - spelling changed
